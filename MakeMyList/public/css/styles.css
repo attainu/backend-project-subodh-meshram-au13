@@ -19,12 +19,16 @@ body {
   background-color: #83E3C6 50%;
 }
 .jumbotron {
-  padding: 2rem 1rem;
-  margin-bottom: 2rem;
-  background-image: -webkit-linear-gradient(72deg, #83E3C6 40%, #E4E9FD 60%);
+  
+  background-image: -webkit-linear-gradient(65deg, #83E3C6 50%, #E4E9FD 50%);
   /* background-color: #E4E9FD; */
   border-radius: .3rem;
-  padding-top: 250px;
+  padding-top: 350px;
+}
+.home{
+  border-radius: .3rem;
+  padding-top: 200px;
+  text-align: center;
 }
 footer {
   /* color: white; */
