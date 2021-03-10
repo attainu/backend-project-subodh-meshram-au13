@@ -7,7 +7,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "md5": "^2.3.0",
-    "mongoose": "^5.11.19",
+    "mongoose": "^5.11.15",
     "mongoose-encryption": "^2.0.3",
     "mongoose-findorcreate": "^3.0.0",
     "nodemon": "^2.0.7",

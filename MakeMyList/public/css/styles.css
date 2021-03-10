@@ -1,6 +1,10 @@
 
 body {
   background-color: #83E3C6;
+  background-color: #e9ecef;
+  background-image: -webkit-linear-gradient(65deg, #83E3C6 50%, #E4E9FD 50%);
+  min-height: 1000px;
+  font-family: 'helvetica neue';
 }
 
 .centered {
