@@ -1,0 +1,29 @@
+
+body {
+  background-color: #83E3C6;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #83E3C6 50%;
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-image: -webkit-linear-gradient(72deg, #83E3C6 40%, #E4E9FD 60%);
+  /* background-color: #E4E9FD; */
+  border-radius: .3rem;
+  padding-top: 250px;
+}
+footer {
+  /* color: white; */
+  color: black;
+  text-align: center;
+}
